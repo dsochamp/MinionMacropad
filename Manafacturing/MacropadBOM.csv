@@ -1,5 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"A1";"RaspberryPi_Pico_Common_Unspecified";1;"RaspberryPi_Pico";;;
-2;"J1";"OLED_128x64";1;"OLED_128x64";;;
-3;"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9";"SW_Cherry_MX_1.00u_PCB";9;"SW_Push";;;
-4;"SW10, SW11";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";2;"RotaryEncoder";;;
