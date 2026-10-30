@@ -1,0 +1,14 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","OLED_128x64","OLED_128x64",63.940000,-48.080000,180.000000,bottom
+"A1","RaspberryPi_Pico","RaspberryPi_Pico_Common_Unspecified",106.440000,-81.360000,0.000000,top
+"SW1","SW_Push","SW_Cherry_MX_1.00u_PCB",87.480000,-75.430000,-90.000000,top
+"SW2","SW_Push","SW_Cherry_MX_1.00u_PCB",68.480000,-75.430000,-90.000000,top
+"SW3","SW_Push","SW_Cherry_MX_1.00u_PCB",49.480000,-75.430000,-90.000000,top
+"SW4","SW_Push","SW_Cherry_MX_1.00u_PCB",87.440000,-94.615000,-90.000000,top
+"SW5","SW_Push","SW_Cherry_MX_1.00u_PCB",68.480000,-94.430000,-90.000000,top
+"SW6","SW_Push","SW_Cherry_MX_1.00u_PCB",49.480000,-94.430000,-90.000000,top
+"SW7","SW_Push","SW_Cherry_MX_1.00u_PCB",87.480000,-113.770000,-90.000000,top
+"SW8","SW_Push","SW_Cherry_MX_1.00u_PCB",68.480000,-113.770000,-90.000000,top
+"SW9","SW_Push","SW_Cherry_MX_1.00u_PCB",49.480000,-113.850000,-90.000000,top
+"SW10","RotaryEncoder","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",83.940000,-56.580000,90.000000,top
+"SW11","RotaryEncoder","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",38.440000,-56.580000,90.000000,top
